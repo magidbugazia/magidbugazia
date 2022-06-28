@@ -1,3 +1,4 @@
+![GitHub ReadMe Welcome](https://user-images.githubusercontent.com/42721181/176310524-6ce7a6ff-732d-4118-a8d2-ef904d8f5ecd.gif)
 
 
 ### Hi there 👋
