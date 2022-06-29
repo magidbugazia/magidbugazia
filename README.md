@@ -5,8 +5,12 @@
 
 ```python
 Github_Portfolio = {
-                    'Name': 'Magid Bugazia',
-                    'Education': ['Bachelors of Science in Petroleum Engineering', 'Masters in Data Analytics']
+                    'name': 'Magid Bugazia',
+                    'education': ['Bachelors of Science in Petroleum Engineering', 'Masters in Data Analytics'],
+                    'contact': 'magidbugazia@gmail.com'
+                    'tools_skills': ['Python', 'R', 'SQL', 'Jupyter', 'Tableau', 'AWS', 'Docker']
+                    'currrent': ['Machine Learning', 'Statistical Analysis', 'EDA']
+                    'future': ['MLOps']
                     }
 ```
 
