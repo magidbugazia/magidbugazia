@@ -7,11 +7,7 @@
 Github_Portfolio = {
      'name': 'Magid Bugazia',
      'role': 'AI Engineer · Data Scientist',
-     'education': ['BS Petroleum Engineering', 'MS Data Analytics'],
-     'stack': ['Python', 'SQL', 'AWS', 'Docker', 'PostgreSQL', 'LLM Harness/SDK', 'LangGraph'],
-     'building': ['agent systems', 'RAG pipelines', 'eval frameworks', 'production observability'],
-     'shipping': ['demand forecasting', 'shrinkage anomaly detection', 'market analysis'],
-     'next': ['multi-agent orchestration', 'cost-optimized model routing'],
+     'education': ['BS Petroleum Engineering', 'MS Data Analytics']
  }
 ```
 
